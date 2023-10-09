@@ -1,6 +1,6 @@
 # Code for DF2M
 
-This repository contains the code for our anonymized submission to NeurIPS.
+This repository contains the code for DF2M
 
 ## Requirements
 
